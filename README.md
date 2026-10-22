@@ -21,7 +21,7 @@ The app has been changed as little as possible; only a few lines of code were re
 
 ## Known limitations
 
-The game has not been fully tested. Bugs or other issues may occur. If you find a significant issue, please open a GitHub Issue.
+The game has not been fully tested, so bugs or other issues may occur. If you encounter a significant issue, please contact me.
 
 ## Notice
 
