@@ -19,7 +19,7 @@ The app has been changed as little as possible; only a few lines of code were re
 - iOS: 4.3–10.3.4
 - Device: legacy iOS devices
 
-<sub>The game was tested on an iPad mini (1st generation). It may not work, or may not work correctly, on 64-bit devices, as it has not been tested on them.</sub>
+<sub>The game was tested on an iPad mini (1st generation). It may not work correctly on 64-bit devices, as it has not been tested on them.</sub>
 
 ## Known limitations
 
