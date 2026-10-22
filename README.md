@@ -5,10 +5,10 @@ Personal Hay Day iOS offline patch for versions 4.3-10.3.4. Unofficial fan proje
 
 ![Hay Day screenshot](image.png)
 
-## Download
-[Download the IPA](https://github.com/Bit576/hay-day-ios-4.3-10.3.4-offline-patch/releases/latest)
-
 This project is for people who want to play an older version of Hay Day on a legacy iOS device. It is a non-commercial fan project and is not affiliated with or endorsed by Supercell.
+
+# Download
+[Download the IPA](https://github.com/Bit576/hay-day-ios-4.3-10.3.4-offline-patch/releases/latest)
 
 ## About
 
