@@ -1,9 +1,11 @@
 # hay-day-ios-4.3-10.3.4-offline-patch
-Personal Hay Day iOS offline patch for versions 4.3–10.3.4. Unofficial fan project; not affiliated with or endorsed by Supercell.
+Personal Hay Day iOS offline patch for versions 4.3-10.3.4. Unofficial fan project; not affiliated with or endorsed by Supercell.
 
 # [OFFLINE PATCH] Hay Day v1.18.166
 
 ![Hay Day screenshot](image.png)
+
+## Download
 [Download the IPA](https://github.com/Bit576/hay-day-ios-4.3-10.3.4-offline-patch/releases/latest)
 
 This project is for people who want to play an older version of Hay Day on a legacy iOS device. It is a non-commercial fan project and is not affiliated with or endorsed by Supercell.
@@ -17,7 +19,7 @@ The app has been changed as little as possible; only a few lines of code were re
 ## Compatibility
 
 - Game version: 1.18.166
-- iOS: 4.3–10.3.4
+- iOS: 4.3-10.3.4
 - Device: legacy iOS devices
 
 <sub>The game was tested on an iPad mini (1st generation). It may not work correctly on 64-bit devices, as it has not been tested on them.</sub>
